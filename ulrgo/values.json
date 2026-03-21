@@ -2,21 +2,11 @@
   {
     "name": "名称1",
     "value": "网址1",
-    "note": "备注1"
+    "note": "备注1\n2"
   },
   {
     "name": "名称2",
     "value": "网址2",
-    "note": null
-  },
-  {
-    "name": "3",
-    "value": "h",
-    "note": null
-  },
-  {
-    "name": "n",
-    "value": "k",
     "note": null
   }
 ]
