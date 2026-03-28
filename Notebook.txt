@@ -1,17 +1,14 @@
 [
   {
     "name": "名称1",
-    "value": "网址1",
     "note": "备注1\n2\n3"
   },
   {
     "name": "名称2",
-    "value": "网址2",
     "note": null
   },
   {
     "name": "j",
-    "value": "h",
     "note": "622026"
   }
 ]
