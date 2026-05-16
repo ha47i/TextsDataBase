@@ -1,17 +1,12 @@
 [
   {
-    "name": "名称1",
-    "value": "网址1",
-    "note": "备注1\n2\n3"
-  },
-  {
-    "name": "名称2",
-    "value": "网址2",
-    "note": ""
-  },
-  {
     "name": "1",
     "value": "https://chat.qwen.ai/",
     "note": "3"
+  },
+  {
+    "name": "2",
+    "value": "https://chat.qwen.ai/",
+    "note": ""
   }
 ]
