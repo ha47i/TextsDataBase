@@ -13,5 +13,20 @@
     "name": "Python",
     "value": "https://m.bilibili.com/video/BV1Sz4y1U77N",
     "note": ""
+  },
+  {
+    "name": "Blog",
+    "value": "https://blog.luckyy.qzz.io/",
+    "note": ""
+  },
+  {
+    "name": "Home",
+    "value": "https://luckyy.qzz.io/home",
+    "note": ""
+  },
+  {
+    "name": "Pan",
+    "value": "https://pan.miaogongzi.net/",
+    "note": ""
   }
 ]
