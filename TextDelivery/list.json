@@ -1,8 +1,4 @@
-{
-  "filename": "note01.json",
-  "name": "一号文本"
-},
-{
-  "filename": "note02.json",
-  "name": "二号文本"
-}
+[
+  {"name": "一号文本", "filename": "note01.json"},
+  {"name": "二号文本", "filename": "note02.json"}
+]
